@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a final-year student at Ho Chi Minh City University of Education (HCMUE), currently focusing on mobile development. With a strong interest in building user-friendly applications, I’m seeking internship opportunities to apply my skills and gain real-world experience in the tech industry.
+Hi, my name is Long. I’m a final-year student at Ho Chi Minh City University of Education (HCMUE), currently focusing on mobile development and web development. With a strong interest in building user-friendly applications, I’m seeking internship opportunities to apply my skills and gain real-world experience in the tech industry.
 
 
 ## 🌐 Socials:
