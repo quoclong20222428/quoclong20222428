@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi, my name is Long. I’m a final-year student at Ho Chi Minh City University of Education (HCMUE), currently focusing on mobile development and web development. With a strong interest in building user-friendly applications, I’m seeking internship opportunities to apply my skills and gain real-world experience in the tech industry.
-
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1n5JtZCXrpXiUWcxE1vn9rPSQLHTxrZmo" alt="Profile Image" width="250" />
+  <br/>
+  Hi, my name is Long. I’m a final-year student at Ho Chi Minh City University of Education (HCMUE), currently focusing on mobile development and web development. With a strong interest in building user-friendly applications, I’m seeking internship opportunities to apply my skills and gain real-world experience in the tech industry.
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/quốc-long-trần-b55932312) 
