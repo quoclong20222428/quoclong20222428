@@ -1,13 +1,23 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1n5JtZCXrpXiUWcxE1vn9rPSQLHTxrZmo" alt="Profile Image" width="250" />
-  <br/>
-  Hi, I’m Long — a final-year Information Technology student at Ho Chi Minh City University of Education (HCMUE).
-  I have a solid foundation in C++ programming along with hands-on experience in web development using TypeScript, React, and Node.js.
-  
-  I’m currently exploring career paths in both Embedded Software (C/C++) and Web/Application Development, and I’m actively seeking internship opportunities in either field.
-  I’m eager to apply my knowledge, learn from real projects, and grow in a professional environment.
+  <img src="https://drive.google.com/uc?export=view&id=1n5JtZCXrpXiUWcxE1vn9rPSQLHTxrZmo"
+       alt="Profile Image"
+       width="250" />
 </p>
+
+<p align="center">
+  Hi, I’m Long — a final-year Information Technology student at Ho Chi Minh City University of Education (HCMUE).
+  I’m focusing on <b>Web and Application Development</b>, with hands-on experience in
+  <b>TypeScript, React, Node.js</b>, and a solid programming foundation in <b>C++</b>.
+</p>
+
+<p align="center">
+  My career goal is to grow into a <b>Software Engineer</b>, building scalable, maintainable applications
+  and continuously improving my engineering skills.
+  I’m currently seeking <b>Web/App Development internship opportunities</b> where I can contribute to
+  real-world projects, learn from experienced engineers, and develop professionally.
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/quốc-long-trần-b55932312) 
@@ -31,20 +41,25 @@
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=flat&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
-### 🗄️ Databases
+### 🗄️ Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
-### 🔐 Authentication & Tools
+### ⚡ Cache & Messaging
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### 🔐 Authentication & UI Tools
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Clerk](https://img.shields.io/badge/Clerk-6B33A8?style=flat&logo=clerk&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
-### ☁️ Deployment & Environment
+### ☁️ Deployment & DevOps
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 
 ### 🔧 Version Control
