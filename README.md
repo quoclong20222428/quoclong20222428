@@ -20,7 +20,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/quốc-long-trần-b55932312) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/qlong-tran090204) 
 
 ## 📩 Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-longtq090204%40gmail.com-red?logo=gmail&logoColor=white)](mailto:longtq090204@gmail.com)
