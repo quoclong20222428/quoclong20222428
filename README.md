@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  Hi, I’m Long — a final-year Information Technology student at Ho Chi Minh City University of Education (HCMUE).
+  Hi, I’m Tran Quoc Long — a final-year Information Technology student at Ho Chi Minh City University of Education (HCMUE).
   I’m focusing on <b>Web and Application Development</b>, with hands-on experience in
-  <b>TypeScript, React, Node.js</b>, and a solid programming foundation in <b>C++</b>.
+  <b>TypeScript, Python</b>, and some frameworks such as <b>Express.js, Nest.js, FastAPI</b>. I also have a solid programming foundation in <b>C++</b>.
 </p>
 
 <p align="center">
@@ -26,6 +26,9 @@
 
 ## 📩 Contact:
 [![Gmail](https://img.shields.io/badge/Gmail-longtq090204%40gmail.com-red?logo=gmail&logoColor=white)](mailto:longtq090204@gmail.com)
+
+## 📄 My CV
+[View My CV here](https://drive.google.com/file/d/1TS2xhTquZK1zTpaY8Xtc4fPzcZ8NQbnY/view)
 
 # 💻 Tech Stack
 
