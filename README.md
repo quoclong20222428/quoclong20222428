@@ -52,9 +52,8 @@
 
 
 # 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quoclong20222428&theme=dracula" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quoclong20222428&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quoclong20222428&theme=tokyonight)
 
 ---
 <p align="center">
