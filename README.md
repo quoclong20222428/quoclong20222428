@@ -6,16 +6,10 @@
 </p>
 
 <p align="center">
-  Hi, I’m a final-year Information Technology student at Ho Chi Minh City University of Education (HCMUE).
-  I’m focusing on <b>Web and Application Development</b>, with hands-on experience in
-  Backend Development with <b>TypeScript, Python</b>, and some frameworks such as <b>Express.js, FastAPI</b>.<!-- I also have a solid programming foundation in <b>C++</b> during learning. -->
-</p>
-
-<p align="center">
-  My career goal is to grow into a <b>Software Engineer</b>, building scalable, maintainable applications
-  and continuously improving my engineering skills.
-  I’m currently seeking <b>Web/App Development internship opportunities</b> where I can contribute to
-  real-world projects, learn from experienced engineers, and develop professionally.
+  Final-year IT student at HCMUE with a strong interest in Backend Engineering.
+  Currently building Web & Application backends using <b>TypeScript</b>, <b>Python</b>,
+  <b>Express.js</b>, and <b>FastAPI</b>.
+  Working toward becoming a <b>Software Engineer</b> focused on scalable, reliable software.
 </p>
 
 
@@ -53,13 +47,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 -->
 
-# GitHub Stats:
+<!-- # GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=quoclong20222428&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=quoclong20222428&theme=tokyonight)
 
 ---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=quoclong20222428&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+</p> -->
 
 
