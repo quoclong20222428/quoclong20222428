@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Final-year IT student at HCMUE with a strong interest in Backend Engineering.
+  Graduated IT student at HCMUE with a strong interest in Backend Engineering.
   Currently building Web & Application backends using <b>TypeScript</b>, <b>Python</b>,
   <b>Express.js</b>, and <b>FastAPI</b>.
   Working toward becoming a <b>Software Engineer</b> focused on scalable, reliable software.
@@ -16,8 +16,8 @@
 ## Contact me via gmail:
 [![Gmail](https://img.shields.io/badge/Gmail-longtq090204%40gmail.com-red?logo=gmail&logoColor=white)](mailto:longtq090204@gmail.com)
 
-## My CV
-[View My CV here](https://drive.google.com/file/d/1TS2xhTquZK1zTpaY8Xtc4fPzcZ8NQbnY/view)
+<!--## My CV
+[View My CV here](https://drive.google.com/file/d/1TS2xhTquZK1zTpaY8Xtc4fPzcZ8NQbnY/view) -->
 
 # Tech Stack
 | Programming Languages | Frontend | Backend | Database | Tool |
